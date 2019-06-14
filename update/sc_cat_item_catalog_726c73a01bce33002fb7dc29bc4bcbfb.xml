@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="create log incident">6ce9f7601bce33002fb7dc29bc4bcb20</sc_cat_item>
+        <sc_catalog display_value="induit service catalog3">a7215fa41b4e33002fb7dc29bc4bcb65</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:32:41</sys_created_on>
+        <sys_id>726c73a01bce33002fb7dc29bc4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>induit service catalog3.create log incident</sys_name>
+        <sys_package display_value="sri indu it" source="x_366657_sri_indu">61dbbd101b0233002fb7dc29bc4bcbca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">61dbbd101b0233002fb7dc29bc4bcbca</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_726c73a01bce33002fb7dc29bc4bcbfb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:32:41</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

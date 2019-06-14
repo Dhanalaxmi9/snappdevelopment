@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="issue linux book">99e1d8051b4a73002fb7dc29bc4bcb7c</sc_cat_item>
+        <sc_catalog display_value="college service">921dc8411b4a73002fb7dc29bc4bcbf9</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:52:29</sys_created_on>
+        <sys_id>c393d8451b4a73002fb7dc29bc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service.issue linux book</sys_name>
+        <sys_package display_value="sri indu it" source="x_366657_sri_indu">61dbbd101b0233002fb7dc29bc4bcbca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">61dbbd101b0233002fb7dc29bc4bcbca</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c393d8451b4a73002fb7dc29bc4bcbfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:52:29</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

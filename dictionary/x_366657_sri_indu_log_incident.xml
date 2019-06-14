@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366657_sri_indu_log_incident" sizeclass="11" type="collection">
+        <element choice="1" label="c4" mandatory="true" max_length="40" name="c4" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="123" sequence="0" value="123"/>
+                <element inactive_on_update="false" label="345" sequence="1" value="345"/>
+                <element inactive_on_update="false" label="678" sequence="2" value="678"/>
+            </choice>
+        </element>
+        <element label="dd" mandatory="true" max_length="32" name="dd" reference="sys_user" type="reference"/>
+        <element label="dhana" max_length="32" name="dhana" reference="alm_asset" type="reference"/>
+        <element choice="1" label="h0" max_length="1000" name="h0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element choice="1" label="h1" max_length="1000" name="h1" type="choice">
+            <choice/>
+        </element>
+        <element label="harsha" max_length="1000" name="harsha" type="journal"/>
+        <element choice="1" label="monika" max_length="1000" name="monika" type="choice">
+            <choice/>
+        </element>
+        <element label="request date" max_length="100" name="request_date" type="glide_date_time"/>
+        <element label="return date" max_length="100" name="return_date" type="glide_date_time"/>
+        <element default="test default" label="sindu" max_length="100" name="sindu" type="string"/>
+        <element label="sriinduit3" max_length="1000" name="sriinduit3" type="string"/>
+    </element>
+</database>
