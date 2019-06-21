@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>sindu_flow_designer</internal_name>
+        <label_cache>[{"name":"11061413-1d60-4074-aeac-87a1f0f878e7.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"11061413-1d60-4074-aeac-87a1f0f878e7.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"4b29ca2b-e88f-4d57-9d99-f65a7208cb9d.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"},{"name":"472fce1f-bd4a-4556-a1e4-3e08f343648e.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"472fce1f-bd4a-4556-a1e4-3e08f343648e.Table","label":"3➛Task Table","reference":"task","reference_display":"Task","type":"table_name","base_type":"table_name"},{"name":"472fce1f-bd4a-4556-a1e4-3e08f343648e.Records","label":"3➛Task Records","reference":"task","reference_display":"Task","type":"records","base_type":"records"},{"name":"2fa42805-3e6f-46bb-b0a4-3bef5b92f074.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"2fa42805-3e6f-46bb-b0a4-3bef5b92f074.Record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"443ab50e-813b-48dc-8058-bd51405a1df8.table_name","label":"2.1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"443ab50e-813b-48dc-8058-bd51405a1df8.record","label":"2.1➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"863410be-508e-4bd4-b521-19758d7a4af7.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"f68f72fc-a70b-4103-9874-b8d3236e81fe.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"f68f72fc-a70b-4103-9874-b8d3236e81fe.Table","label":"1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"f68f72fc-a70b-4103-9874-b8d3236e81fe.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>sindu flow designer</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:35:54</sys_created_on>
+        <sys_id>344aa9671b86b3002fb7dc29bc4bcb46</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>sindu flow designer</sys_name>
+        <sys_package display_value="sri indu it" source="x_366657_sri_indu">61dbbd101b0233002fb7dc29bc4bcbca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">61dbbd101b0233002fb7dc29bc4bcbca</sys_scope>
+        <sys_update_name>sys_hub_flow_344aa9671b86b3002fb7dc29bc4bcb46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:25:08</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=344aa9671b86b3002fb7dc29bc4bcb46"/>
+    <sys_variable_value action="delete_multiple" query="document_key=344aa9671b86b3002fb7dc29bc4bcb46"/>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="sindu mobile menu">c376a5271b86b3002fb7dc29bc4bcbd3</application>
+        <filter table="incident">state=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>sindu mobile module</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:20:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc66e1271b86b3002fb7dc29bc4bcb25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sindu mobile module</sys_name>
+        <sys_package display_value="sri indu it" source="x_366657_sri_indu">61dbbd101b0233002fb7dc29bc4bcbca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">61dbbd101b0233002fb7dc29bc4bcbca</sys_scope>
+        <sys_update_name>sys_ui_module_fc66e1271b86b3002fb7dc29bc4bcb25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 05:20:59</sys_updated_on>
+        <table>incident</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

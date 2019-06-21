@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="log incident" max_length="40" name="x_366657_sri_indu_log_incident" sizeclass="11" type="collection">
+    <element extends="task" label="log incident" max_length="40" name="x_366657_sri_indu_log_incident" sizeclass="30" type="collection">
         <element choice="1" label="c4" mandatory="true" max_length="40" name="c4" type="choice">
             <choice>
                 <element inactive_on_update="false" label="123" sequence="0" value="123"/>
                 <element inactive_on_update="false" label="345" sequence="1" value="345"/>
                 <element inactive_on_update="false" label="678" sequence="2" value="678"/>
+            </choice>
+        </element>
+        <element choice="1" label="Category" max_length="100" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" value="hw"/>
+                <element inactive="true" inactive_on_update="true" label="hardware" sequence="0" value="hw"/>
+                <element inactive_on_update="false" label="network" sequence="1" value="nw"/>
+                <element inactive_on_update="false" label="software" sequence="2" value="sw"/>
             </choice>
         </element>
         <element label="dd" mandatory="true" max_length="32" name="dd" reference="sys_user" type="reference"/>
